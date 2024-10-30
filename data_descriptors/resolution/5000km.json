@@ -1,5 +1,5 @@
 {
-    "@context": "https://wcrp-cmip.github.io/MIP_UNIVERSE/data_descriptors/resolution/_context",
+    "@context": "https://wcrp-cmip.github.io/WCRP_UNIVERSE/data_descriptors/resolution/_context",
     "description": "Resolution of 5000 km",
     "id": "5000km.json",
     "name": "5000 km",

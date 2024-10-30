@@ -1,5 +1,5 @@
 {
-    "@context": "https://wcrp-cmip.github.io/MIP_UNIVERSE/data_descriptors/source-type/_context",
+    "@context": "https://wcrp-cmip.github.io/WCRP_UNIVERSE/data_descriptors/source-type/_context",
     "description": "aerosol treatment in an atmospheric model where concentrations are calculated based on emissions, transformation, and removal processes (rather than being prescribed or omitted entirely)",
     "id": "aer.json",
     "name": "AER",

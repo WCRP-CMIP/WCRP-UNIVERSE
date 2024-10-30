@@ -1,5 +1,5 @@
 {
-    "@context": "https://wcrp-cmip.github.io/MIP_UNIVERSE/data_descriptors/frequency/_context",
+    "@context": "https://wcrp-cmip.github.io/WCRP_UNIVERSE/data_descriptors/frequency/_context",
     "description": "daily mean samples",
     "id": "day.json",
     "long_name": "Daily Frequency",

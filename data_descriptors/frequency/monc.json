@@ -1,5 +1,5 @@
 {
-    "@context": "https://wcrp-cmip.github.io/MIP_UNIVERSE/data_descriptors/frequency/_context",
+    "@context": "https://wcrp-cmip.github.io/WCRP_UNIVERSE/data_descriptors/frequency/_context",
     "description": "monthly climatology computed from monthly mean samples",
     "id": "monc.json",
     "long_name": "Monthly Climatology",

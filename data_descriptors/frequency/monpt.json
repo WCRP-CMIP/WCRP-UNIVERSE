@@ -1,5 +1,5 @@
 {
-    "@context": "https://wcrp-cmip.github.io/MIP_UNIVERSE/data_descriptors/frequency/_context",
+    "@context": "https://wcrp-cmip.github.io/WCRP_UNIVERSE/data_descriptors/frequency/_context",
     "description": "sampled monthly, at specified time point within the time period",
     "id": "monpt.json",
     "long_name": "Monthly Point",

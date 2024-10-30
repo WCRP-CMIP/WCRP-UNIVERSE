@@ -1,5 +1,5 @@
 {
-    "@context": "https://wcrp-cmip.github.io/MIP_UNIVERSE/data_descriptors/frequency/_context",
+    "@context": "https://wcrp-cmip.github.io/WCRP_UNIVERSE/data_descriptors/frequency/_context",
     "description": "sampled hourly",
     "id": "1hr.json",
     "long_name": "1 Hourly Frequency",
