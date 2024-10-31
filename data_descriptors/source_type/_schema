@@ -3,7 +3,7 @@
     "title": "CMIP Source-Type Descriptor",
     "description": "Defines a CMIP source-type, including descriptive information about different model runs, such as those uncoupled from the atmosphere.",
     "references": ["https://wcrp-cmip.github.io/WCRP-UNIVERSE/data_descriptors/source-type"],
-    "repo": "https://github.com/WCRP-CMIP/data_descriptors",
+    "repo": "https://wcrp-cmip.github.io/WCRP-UNIVERSE/data_descriptors/",
     "prefix": "mip",
 
     "type": "object",
