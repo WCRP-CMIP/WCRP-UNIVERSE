@@ -2,8 +2,8 @@
     "$schema": "http://json-schema.org/draft-07/schema#",
     "title": "CMIP Product Descriptor",
     "description": "Defines a CMIP product, including descriptions, types, and unique identifiers for observational data and other products.",
-    "references": ["https://wcrp-cmip.github.io/WCRP-UNIVERSE/data_descriptors/product"],
-    "repo": "https://wcrp-cmip.github.io/WCRP-UNIVERSE/data_descriptors/",
+    "references": ["https://https://github.com/WCRP-CMIP/WCRP-UNIVERSE/data_descriptors//product"],
+    "repo": "https://https://github.com/WCRP-CMIP/WCRP-UNIVERSE/data_descriptors//",
     "prefix": "mip",
 
     "type": "object",
@@ -11,7 +11,7 @@
         "@context": {
             "type": "string",
             "description": "URI for the JSON-LD context describing product descriptors",
-            "examples": ["https://wcrp-cmip.github.io/WCRP-UNIVERSE/data_descriptors/product/_context"]
+            "examples": ["https://https://github.com/WCRP-CMIP/WCRP-UNIVERSE/data_descriptors//product/_context"]
         },
         "description": {
             "type": "string",
