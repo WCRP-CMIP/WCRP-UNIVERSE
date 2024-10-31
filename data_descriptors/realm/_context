@@ -1,6 +1,6 @@
 {
   "@context": {
-    "@base": "https://wcrp-cmip.github.io/MIP_UNIVERSE/data_descriptors/realm/",
+    "@base": "https://wcrp-cmip.github.io/WCRP-UNIVERSE/data_descriptors/realm/",
     "@vocab": "https://wcrp-cmip.github.io/WCRP-UNIVERSE/data_descriptors/realm/",
     "id": "@id",
     "type": "@type"
