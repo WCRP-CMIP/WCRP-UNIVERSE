@@ -1,7 +1,7 @@
 {
-    "@context": "https://wcrp-cmip.github.io/WCRP-UNIVERSE/data_descriptors/source-type/_context",
+    "@context": "https://wcrp-cmip.github.io/WCRP-UNIVERSE/data_descriptors/source_type/_context",
     "description": "atmospheric general circulation model run with prescribed ocean surface conditions and usually a model of the land surface",
     "id": "agcm.json",
     "name": "AGCM",
-    "type": "source-type"
+    "type": "source_type"
 }

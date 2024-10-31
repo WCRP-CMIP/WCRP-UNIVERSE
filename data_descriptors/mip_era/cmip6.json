@@ -4,6 +4,6 @@
     "id": "cmip6.json",
     "name": "CMIP6",
     "start": 2013,
-    "type": "mip-era",
+    "type": "mip_era",
     "url": "https://wcrp-cmip.org/CMIP6"
 }

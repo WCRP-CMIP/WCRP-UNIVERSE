@@ -4,6 +4,6 @@
     "id": "cmip6plus.json",
     "name": "CMIP6Plus",
     "start": 2023,
-    "type": "mip-era",
+    "type": "mip_era",
     "url": "https://wcrp-cmip.org/CMIP6Plus"
 }
