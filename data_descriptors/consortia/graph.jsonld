@@ -54,7 +54,7 @@
   "name": "MIROC Consortium",
   "status": "active",
   "type": [
-    "consorita",
+    "consortia",
     "organisation:organisation"
   ],
   "url": ""
@@ -124,7 +124,7 @@
   "name": "NCC Consortium",
   "status": "active",
   "type": [
-    "consorita",
+    "consortia",
     "organisation:organisation"
   ],
   "url": ""
@@ -313,7 +313,7 @@
   },
   "name": "SOLARIS HEPPA Consortium",
   "type": [
-    "consorita",
+    "consortia",
     "organisation:organisation"
   ],
   "url": "https://solarisheppa.geomar.de"
