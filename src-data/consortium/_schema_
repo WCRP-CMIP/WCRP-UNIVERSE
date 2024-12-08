@@ -106,7 +106,7 @@
         "members"
     ],
     "additionalProperties": false,
-    "id": "consortia",
+    "id": "consortium",
     "contains": {
         "type": "string",
         "enum": [
@@ -115,5 +115,5 @@
             "solaris_heppa"
         ]
     },
-    "base": "https://github.com/wcrp-cmip/WCRP-universe/tree/main/src-data/consortia/"
+    "base": "https://github.com/wcrp-cmip/WCRP-universe/tree/main/src-data/consortium/"
 }

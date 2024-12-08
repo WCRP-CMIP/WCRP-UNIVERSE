@@ -1,9 +1,9 @@
-name: 'Add/Modify: Consortia'
-description: 'Type: consortia'
-title: 'Add/Modify: Consortia: <enter item name>'
+name: 'Add/Modify: Consortium'
+description: 'Type: consortium'
+title: 'Add/Modify: Consortium: <enter item name>'
 labels:
 - delta
-- consortia
+- consortium
 body:
 -   type: markdown
     attributes:

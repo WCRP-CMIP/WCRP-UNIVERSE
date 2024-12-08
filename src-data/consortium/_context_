@@ -2,8 +2,8 @@
     "@context": [
         "../_context_",
         {
-            "@base": "https://wcrp-cmip.github.io/WCRP-universe/consortia/",
-            "@vocab": "https://wcrp-cmip.github.io/WCRP-universe/consortia/",
+            "@base": "https://wcrp-cmip.github.io/WCRP-universe/consortium/",
+            "@vocab": "https://wcrp-cmip.github.io/WCRP-universe/consortium/",
             "organisation": "https://wcrp-cmip.github.io/WCRP-universe/organisation/"
         }
     ],
