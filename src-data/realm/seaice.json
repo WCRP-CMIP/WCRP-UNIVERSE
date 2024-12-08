@@ -1,1 +1,10 @@
-{"@context": "_context_", "description": "Sea Ice", "id": "seaice", "name": "seaIce", "type": ["wcrp:realm", "universal"]}
+{
+    "@context": "_context_",
+    "description": "Sea Ice",
+    "id": "seaice",
+    "name": "seaIce",
+    "type": [
+        "wcrp:realm",
+        "universal"
+    ]
+}

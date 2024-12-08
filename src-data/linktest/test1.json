@@ -1,1 +1,19 @@
-{"@context": "_context_", "description": "This is a test file, checking on multiple entries", "id": "test1", "Author": "Daniel Ellis", "type": ["wcrp:linktest", "universal"], "realm": {"atmos": {}, "ocean": {}}, "realm2": [{"@id": "atmoschem"}]}
+{
+    "@context": "_context_",
+    "description": "This is a test file, checking on multiple entries",
+    "id": "test1",
+    "Author": "Daniel Ellis",
+    "type": [
+        "wcrp:linktest",
+        "universal"
+    ],
+    "realm": {
+        "atmos": {},
+        "ocean": {}
+    },
+    "realm2": [
+        {
+            "@id": "atmoschem"
+        }
+    ]
+}
