@@ -1,9 +1,1 @@
-{
-    "@context": "_context_",
-    "description": "monthly mean samples",
-    "id": "mon",
-    "long_name": "Monthly Frequency",
-    "name": "mon",
-    "type": "frequency",
-    "unit": "month"
-}
+{"@context": "_context_", "description": "monthly mean samples", "id": "mon", "long_name": "Monthly Frequency", "name": "mon", "type": ["wcrp:frequency", "universal"], "unit": "month"}

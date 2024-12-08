@@ -1,9 +1,1 @@
-{
-    "@context": "_context_",
-    "description": "sampled yearly, at specified time point within the time period",
-    "id": "yrpt",
-    "long_name": "Yearly Point",
-    "name": "yrPt",
-    "type": "frequency",
-    "unit": "year"
-}
+{"@context": "_context_", "description": "sampled yearly, at specified time point within the time period", "id": "yrpt", "long_name": "Yearly Point", "name": "yrPt", "type": ["wcrp:frequency", "universal"], "unit": "year"}

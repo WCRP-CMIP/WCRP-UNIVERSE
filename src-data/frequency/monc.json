@@ -1,9 +1,1 @@
-{
-    "@context": "_context_",
-    "description": "monthly climatology computed from monthly mean samples",
-    "id": "monc",
-    "long_name": "Monthly Climatology",
-    "name": "monC",
-    "type": "frequency",
-    "unit": "month"
-}
+{"@context": "_context_", "description": "monthly climatology computed from monthly mean samples", "id": "monc", "long_name": "Monthly Climatology", "name": "monC", "type": ["wcrp:frequency", "universal"], "unit": "month"}

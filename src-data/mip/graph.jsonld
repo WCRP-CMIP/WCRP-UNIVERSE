@@ -18,7 +18,10 @@
   "id": "cmip5",
   "name": "CMIP5",
   "start": 2006,
-  "type": "mip",
+  "type": [
+    "wcrp:mip",
+    "universal"
+  ],
   "url": "https://wcrp-cmip.org/CMIP5"
 }
     ,{
@@ -26,7 +29,10 @@
   "id": "cmip6",
   "name": "CMIP6",
   "start": 2013,
-  "type": "mip",
+  "type": [
+    "wcrp:mip",
+    "universal"
+  ],
   "url": "https://wcrp-cmip.org/CMIP6"
 }
     ,{
@@ -34,7 +40,10 @@
   "id": "cmip6plus",
   "name": "CMIP6Plus",
   "start": 2023,
-  "type": "mip",
+  "type": [
+    "wcrp:mip",
+    "universal"
+  ],
   "url": "https://wcrp-cmip.org/CMIP6Plus"
 }
     ,{
@@ -42,7 +51,10 @@
   "id": "cmip7",
   "name": "CMIP7",
   "start": 2025,
-  "type": "mip",
+  "type": [
+    "wcrp:mip",
+    "universal"
+  ],
   "url": "https://wcrp-cmip.org/CMIP7"
 }
   ]

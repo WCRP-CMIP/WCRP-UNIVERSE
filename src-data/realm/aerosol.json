@@ -1,7 +1,1 @@
-{
-  "@context": "_context_",
-  "description": "Aerosol",
-  "id": "aerosol",
-  "name": "aerosol",
-  "type": "realm"
-}
+{"@context": "_context_", "description": "Aerosol", "id": "aerosol", "name": "aerosol", "type": ["wcrp:realm", "universal"]}

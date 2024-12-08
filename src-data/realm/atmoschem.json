@@ -1,7 +1,1 @@
-{
-  "@context": "_context_",
-  "description": "Atmospheric Chemistry",
-  "id": "atmoschem",
-  "name": "atmosChem",
-  "type": "realm"
-}
+{"@context": "_context_", "description": "Atmospheric Chemistry", "id": "atmoschem", "name": "atmosChem", "type": ["wcrp:realm", "universal"]}

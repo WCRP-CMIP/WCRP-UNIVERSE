@@ -17,7 +17,10 @@
   "description": "This is a test file, checking on multiple entries",
   "id": "test1",
   "Author": "Daniel Ellis",
-  "type": "TestFile",
+  "type": [
+    "wcrp:linktest",
+    "universal"
+  ],
   "realm": {
     "atmos": {},
     "ocean": {}
@@ -32,7 +35,10 @@
   "description": "This is a yet another test file, checking on multiple entries",
   "id": "test2",
   "Author": "Daniel Ellis",
-  "type": "TestFile",
+  "type": [
+    "wcrp:linktest",
+    "universal"
+  ],
   "realm": {
     "atmoschem": {
       "name": "more than just atmos"

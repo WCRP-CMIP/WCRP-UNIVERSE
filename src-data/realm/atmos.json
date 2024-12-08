@@ -1,7 +1,1 @@
-{
-  "@context": "_context_",
-  "description": "Atmosphere",
-  "id": "atmos",
-  "name": "atmos",
-  "type": "realm"
-}
+{"@context": "_context_", "description": "Atmosphere", "id": "atmos", "name": "atmos", "type": ["wcrp:realm", "universal"]}

@@ -43,8 +43,8 @@
     "http://www.aer.com/"
   ],
   "type": [
-    "institution",
-    "organisation:organisation"
+    "wcrp:institution",
+    "universal"
   ]
 }
     ,{
@@ -74,8 +74,8 @@
     "http://web.oa-roma.inaf.it/"
   ],
   "type": [
-    "institution",
-    "organisation:organisation"
+    "wcrp:institution",
+    "universal"
   ]
 }
     ,{
@@ -107,8 +107,8 @@
     "http://www.rcec.sinica.edu.tw/"
   ],
   "type": [
-    "institution",
-    "organisation:organisation"
+    "wcrp:institution",
+    "universal"
   ]
 }
     ,{
@@ -140,8 +140,8 @@
     "https://www.auth.gr/en"
   ],
   "type": [
-    "institution",
-    "organisation:organisation"
+    "wcrp:institution",
+    "universal"
   ]
 }
     ,{
@@ -173,8 +173,8 @@
     "https://www.awi.de"
   ],
   "type": [
-    "institution",
-    "organisation:organisation"
+    "wcrp:institution",
+    "universal"
   ]
 }
     ,{
@@ -206,8 +206,8 @@
     "https://www.bas.ac.uk/"
   ],
   "type": [
-    "institution",
-    "organisation:organisation"
+    "wcrp:institution",
+    "universal"
   ]
 }
     ,{
@@ -237,8 +237,8 @@
     "http://www.bbctg.com.cn/"
   ],
   "type": [
-    "institution",
-    "organisation:organisation"
+    "wcrp:institution",
+    "universal"
   ]
 }
     ,{
@@ -270,8 +270,8 @@
     "http://www.camscma.cn/en.html"
   ],
   "type": [
-    "institution",
-    "organisation:organisation"
+    "wcrp:institution",
+    "universal"
   ]
 }
     ,{
@@ -303,8 +303,8 @@
     "http://english.cas.cn/"
   ],
   "type": [
-    "institution",
-    "organisation:organisation"
+    "wcrp:institution",
+    "universal"
   ]
 }
     ,{
@@ -336,8 +336,8 @@
     "https://www.canada.ca/en/environment-climate-change.html"
   ],
   "type": [
-    "institution",
-    "organisation:organisation"
+    "wcrp:institution",
+    "universal"
   ]
 }
     ,{
@@ -369,8 +369,8 @@
     "http://www.tropmet.res.in/"
   ],
   "type": [
-    "institution",
-    "organisation:organisation"
+    "wcrp:institution",
+    "universal"
   ]
 }
     ,{
@@ -402,8 +402,8 @@
     "https://www.ceda.ac.uk/"
   ],
   "type": [
-    "institution",
-    "organisation:organisation"
+    "wcrp:institution",
+    "universal"
   ]
 }
     ,{
@@ -435,8 +435,8 @@
     "http://www.cmcc.it/"
   ],
   "type": [
-    "institution",
-    "organisation:organisation"
+    "wcrp:institution",
+    "universal"
   ]
 }
     ,{
@@ -468,8 +468,8 @@
     "https://www.cnes.fr"
   ],
   "type": [
-    "institution",
-    "organisation:organisation"
+    "wcrp:institution",
+    "universal"
   ]
 }
     ,{
@@ -501,8 +501,8 @@
     "http://www.csiro.au/"
   ],
   "type": [
-    "institution",
-    "organisation:organisation"
+    "wcrp:institution",
+    "universal"
   ]
 }
     ,{
@@ -534,8 +534,8 @@
     "https://www.dkrz.de/"
   ],
   "type": [
-    "institution",
-    "organisation:organisation"
+    "wcrp:institution",
+    "universal"
   ]
 }
     ,{
@@ -567,8 +567,8 @@
     "http://www.dwd.de/"
   ],
   "type": [
-    "institution",
-    "organisation:organisation"
+    "wcrp:institution",
+    "universal"
   ]
 }
     ,{
@@ -600,8 +600,8 @@
     "http://www.eawag.ch/en/"
   ],
   "type": [
-    "institution",
-    "organisation:organisation"
+    "wcrp:institution",
+    "universal"
   ]
 }
     ,{
@@ -633,8 +633,8 @@
     "http://www.ecmwf.int/"
   ],
   "type": [
-    "institution",
-    "organisation:organisation"
+    "wcrp:institution",
+    "universal"
   ]
 }
     ,{
@@ -666,8 +666,8 @@
     "http://www.incois.gov.in/portal/index.jsp"
   ],
   "type": [
-    "institution",
-    "organisation:organisation"
+    "wcrp:institution",
+    "universal"
   ]
 }
     ,{
@@ -699,8 +699,8 @@
     "http://en.ilmatieteenlaitos.fi/"
   ],
   "type": [
-    "institution",
-    "organisation:organisation"
+    "wcrp:institution",
+    "universal"
   ]
 }
     ,{
@@ -735,8 +735,8 @@
     "https://www.fu-berlin.de"
   ],
   "type": [
-    "institution",
-    "organisation:organisation"
+    "wcrp:institution",
+    "universal"
   ]
 }
     ,{
@@ -771,8 +771,8 @@
     "https://ethz.ch"
   ],
   "type": [
-    "institution",
-    "organisation:organisation"
+    "wcrp:institution",
+    "universal"
   ]
 }
     ,{
@@ -806,8 +806,8 @@
     "http://www.geomar.de/en/"
   ],
   "type": [
-    "institution",
-    "organisation:organisation"
+    "wcrp:institution",
+    "universal"
   ]
 }
     ,{
@@ -837,8 +837,8 @@
     "http://www.imperial.ac.uk/"
   ],
   "type": [
-    "institution",
-    "organisation:organisation"
+    "wcrp:institution",
+    "universal"
   ]
 }
     ,{
@@ -870,8 +870,8 @@
     "http://www.inm.ras.ru/inm_en_ver/index.htm"
   ],
   "type": [
-    "institution",
-    "organisation:organisation"
+    "wcrp:institution",
+    "universal"
   ]
 }
     ,{
@@ -903,8 +903,8 @@
     "https://www.ipsl.fr/en/"
   ],
   "type": [
-    "institution",
-    "organisation:organisation"
+    "wcrp:institution",
+    "universal"
   ]
 }
     ,{
@@ -936,8 +936,8 @@
     "http://www.issibern.ch/"
   ],
   "type": [
-    "institution",
-    "organisation:organisation"
+    "wcrp:institution",
+    "universal"
   ]
 }
     ,{
@@ -972,8 +972,8 @@
     "http://global.jaxa.jp/"
   ],
   "type": [
-    "institution",
-    "organisation:organisation"
+    "wcrp:institution",
+    "universal"
   ]
 }
     ,{
@@ -1007,8 +1007,8 @@
     "http://eng.kiost.ac/"
   ],
   "type": [
-    "institution",
-    "organisation:organisation"
+    "wcrp:institution",
+    "universal"
   ]
 }
     ,{
@@ -1043,8 +1043,8 @@
     "http://www.kit.edu/english/"
   ],
   "type": [
-    "institution",
-    "organisation:organisation"
+    "wcrp:institution",
+    "universal"
   ]
 }
     ,{
@@ -1082,8 +1082,8 @@
     "https://www.llnl.gov/"
   ],
   "type": [
-    "institution",
-    "organisation:organisation"
+    "wcrp:institution",
+    "universal"
   ]
 }
     ,{
@@ -1115,8 +1115,8 @@
     "https://www.lpc2e.cnrs.fr"
   ],
   "type": [
-    "institution",
-    "organisation:organisation"
+    "wcrp:institution",
+    "universal"
   ]
 }
     ,{
@@ -1148,8 +1148,8 @@
     "http://www.metoffice.gov.uk/"
   ],
   "type": [
-    "institution",
-    "organisation:organisation"
+    "wcrp:institution",
+    "universal"
   ]
 }
     ,{
@@ -1179,8 +1179,8 @@
     "http://www.bgc-jena.mpg.de/"
   ],
   "type": [
-    "institution",
-    "organisation:organisation"
+    "wcrp:institution",
+    "universal"
   ]
 }
     ,{
@@ -1212,8 +1212,8 @@
     "http://www.mpimet.mpg.de/en/home.html"
   ],
   "type": [
-    "institution",
-    "organisation:organisation"
+    "wcrp:institution",
+    "universal"
   ]
 }
     ,{
@@ -1245,8 +1245,8 @@
     "http://www.mps.mpg.de/en"
   ],
   "type": [
-    "institution",
-    "organisation:organisation"
+    "wcrp:institution",
+    "universal"
   ]
 }
     ,{
@@ -1280,8 +1280,8 @@
     "http://www.jma.go.jp/jma/indexe.html"
   ],
   "type": [
-    "institution",
-    "organisation:organisation"
+    "wcrp:institution",
+    "universal"
   ]
 }
     ,{
@@ -1313,8 +1313,8 @@
     "http://www.giss.nasa.gov/"
   ],
   "type": [
-    "institution",
-    "organisation:organisation"
+    "wcrp:institution",
+    "universal"
   ]
 }
     ,{
@@ -1346,8 +1346,8 @@
     "https://www.nasa.gov/centers/goddard/home/index.html"
   ],
   "type": [
-    "institution",
-    "organisation:organisation"
+    "wcrp:institution",
+    "universal"
   ]
 }
     ,{
@@ -1382,8 +1382,8 @@
     "http://www.jpl.nasa.gov/"
   ],
   "type": [
-    "institution",
-    "organisation:organisation"
+    "wcrp:institution",
+    "universal"
   ]
 }
     ,{
@@ -1415,8 +1415,8 @@
     "http://www.nasa.gov/langley"
   ],
   "type": [
-    "institution",
-    "organisation:organisation"
+    "wcrp:institution",
+    "universal"
   ]
 }
     ,{
@@ -1448,8 +1448,8 @@
     "https://ncar.ucar.edu/"
   ],
   "type": [
-    "institution",
-    "organisation:organisation"
+    "wcrp:institution",
+    "universal"
   ]
 }
     ,{
@@ -1479,8 +1479,8 @@
     "http://www.uksresearch.com/"
   ],
   "type": [
-    "institution",
-    "organisation:organisation"
+    "wcrp:institution",
+    "universal"
   ]
 }
     ,{
@@ -1512,8 +1512,8 @@
     "https://www.ukri.org/councils/nerc/"
   ],
   "type": [
-    "institution",
-    "organisation:organisation"
+    "wcrp:institution",
+    "universal"
   ]
 }
     ,{
@@ -1547,8 +1547,8 @@
     "https://www.niwa.co.nz/"
   ],
   "type": [
-    "institution",
-    "organisation:organisation"
+    "wcrp:institution",
+    "universal"
   ]
 }
     ,{
@@ -1587,8 +1587,8 @@
     "https://www.ncei.noaa.gov"
   ],
   "type": [
-    "institution",
-    "organisation:organisation"
+    "wcrp:institution",
+    "universal"
   ]
 }
     ,{
@@ -1620,8 +1620,8 @@
     "http://www.ntu.edu.tw/english/"
   ],
   "type": [
-    "institution",
-    "organisation:organisation"
+    "wcrp:institution",
+    "universal"
   ]
 }
     ,{
@@ -1656,8 +1656,8 @@
     "http://www.nju.edu.cn/english/"
   ],
   "type": [
-    "institution",
-    "organisation:organisation"
+    "wcrp:institution",
+    "universal"
   ]
 }
     ,{
@@ -1689,8 +1689,8 @@
     "http://oregonstate.edu/"
   ],
   "type": [
-    "institution",
-    "organisation:organisation"
+    "wcrp:institution",
+    "universal"
   ]
 }
     ,{
@@ -1728,8 +1728,8 @@
     "https://www.llnl.gov/"
   ],
   "type": [
-    "institution",
-    "organisation:organisation"
+    "wcrp:institution",
+    "universal"
   ]
 }
     ,{
@@ -1761,8 +1761,8 @@
     "https://www.pmodwrc.ch/"
   ],
   "type": [
-    "institution",
-    "organisation:organisation"
+    "wcrp:institution",
+    "universal"
   ]
 }
     ,{
@@ -1794,8 +1794,8 @@
     "http://www.globalchange.umd.edu/"
   ],
   "type": [
-    "institution",
-    "organisation:organisation"
+    "wcrp:institution",
+    "universal"
   ]
 }
     ,{
@@ -1827,8 +1827,8 @@
     "http://www.pnnl.gov/"
   ],
   "type": [
-    "institution",
-    "organisation:organisation"
+    "wcrp:institution",
+    "universal"
   ]
 }
     ,{
@@ -1860,8 +1860,8 @@
     "http://www.remss.com/"
   ],
   "type": [
-    "institution",
-    "organisation:organisation"
+    "wcrp:institution",
+    "universal"
   ]
 }
     ,{
@@ -1895,8 +1895,8 @@
     "http://www.snu.ac.kr/index.html"
   ],
   "type": [
-    "institution",
-    "organisation:organisation"
+    "wcrp:institution",
+    "universal"
   ]
 }
     ,{
@@ -1928,8 +1928,8 @@
     "http://www.tsinghua.edu.cn/publish/newthuen/"
   ],
   "type": [
-    "institution",
-    "organisation:organisation"
+    "wcrp:institution",
+    "universal"
   ]
 }
     ,{
@@ -1961,8 +1961,8 @@
     "http://www.arizona.edu/"
   ],
   "type": [
-    "institution",
-    "organisation:organisation"
+    "wcrp:institution",
+    "universal"
   ]
 }
     ,{
@@ -1996,8 +1996,8 @@
     "http://uci.edu/"
   ],
   "type": [
-    "institution",
-    "organisation:organisation"
+    "wcrp:institution",
+    "universal"
   ]
 }
     ,{
@@ -2029,8 +2029,8 @@
     "http://www.cu.edu/"
   ],
   "type": [
-    "institution",
-    "organisation:organisation"
+    "wcrp:institution",
+    "universal"
   ]
 }
     ,{
@@ -2064,8 +2064,8 @@
     "http://www.ucsb.edu/"
   ],
   "type": [
-    "institution",
-    "organisation:organisation"
+    "wcrp:institution",
+    "universal"
   ]
 }
     ,{
@@ -2099,8 +2099,8 @@
     "http://www.uni-hamburg.de"
   ],
   "type": [
-    "institution",
-    "organisation:organisation"
+    "wcrp:institution",
+    "universal"
   ]
 }
     ,{
@@ -2132,8 +2132,8 @@
     "http://www.uib.no/"
   ],
   "type": [
-    "institution",
-    "organisation:organisation"
+    "wcrp:institution",
+    "universal"
   ]
 }
     ,{
@@ -2165,8 +2165,8 @@
     "http://www.umd.edu/"
   ],
   "type": [
-    "institution",
-    "organisation:organisation"
+    "wcrp:institution",
+    "universal"
   ]
 }
     ,{
@@ -2196,8 +2196,8 @@
     "http://www.leeds.ac.uk/"
   ],
   "type": [
-    "institution",
-    "organisation:organisation"
+    "wcrp:institution",
+    "universal"
   ]
 }
     ,{
@@ -2229,8 +2229,8 @@
     "http://www.unimelb.edu.au/"
   ],
   "type": [
-    "institution",
-    "organisation:organisation"
+    "wcrp:institution",
+    "universal"
   ]
 }
     ,{
@@ -2262,8 +2262,8 @@
     "http://www.umontreal.ca/english/"
   ],
   "type": [
-    "institution",
-    "organisation:organisation"
+    "wcrp:institution",
+    "universal"
   ]
 }
     ,{
@@ -2293,8 +2293,8 @@
     "http://www.otago.ac.nz/"
   ],
   "type": [
-    "institution",
-    "organisation:organisation"
+    "wcrp:institution",
+    "universal"
   ]
 }
     ,{
@@ -2324,8 +2324,8 @@
     "http://www.oulu.fi/english/"
   ],
   "type": [
-    "institution",
-    "organisation:organisation"
+    "wcrp:institution",
+    "universal"
   ]
 }
     ,{
@@ -2355,8 +2355,8 @@
     "http://www.reading.ac.uk/"
   ],
   "type": [
-    "institution",
-    "organisation:organisation"
+    "wcrp:institution",
+    "universal"
   ]
 }
     ,{
@@ -2388,8 +2388,8 @@
     "http://www.washington.edu/"
   ],
   "type": [
-    "institution",
-    "organisation:organisation"
+    "wcrp:institution",
+    "universal"
   ]
 }
     ,{
@@ -2423,8 +2423,8 @@
     "https://vu.nl/"
   ],
   "type": [
-    "institution",
-    "organisation:organisation"
+    "wcrp:institution",
+    "universal"
   ]
 }
   ]

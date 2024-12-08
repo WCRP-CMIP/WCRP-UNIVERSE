@@ -1,9 +1,1 @@
-{
-  "@context": "_context_",
-  "description": "data reported on a native grid in the region of Greenland",
-  "id": "gng",
-  "name": "gng",
-  "region": "greenland",
-  "short name": "Grid Native Greenland",
-  "type": "grid_label"
-}
+{"@context": "_context_", "description": "data reported on a native grid in the region of Greenland", "id": "gng", "name": "gng", "region": "greenland", "short name": "Grid Native Greenland", "type": ["wcrp:grid_label", "universal"]}

@@ -17,49 +17,73 @@
   "description": "Aerosol",
   "id": "aerosol",
   "name": "aerosol",
-  "type": "realm"
+  "type": [
+    "wcrp:realm",
+    "universal"
+  ]
 }
     ,{
   "description": "Atmosphere",
   "id": "atmos",
   "name": "atmos",
-  "type": "realm"
+  "type": [
+    "wcrp:realm",
+    "universal"
+  ]
 }
     ,{
   "description": "Atmospheric Chemistry",
   "id": "atmoschem",
   "name": "atmosChem",
-  "type": "realm"
+  "type": [
+    "wcrp:realm",
+    "universal"
+  ]
 }
     ,{
   "description": "Land Surface and Subsurface",
   "id": "land",
   "name": "land",
-  "type": "realm"
+  "type": [
+    "wcrp:realm",
+    "universal"
+  ]
 }
     ,{
   "description": "Land Ice",
   "id": "landice",
   "name": "landIce",
-  "type": "realm"
+  "type": [
+    "wcrp:realm",
+    "universal"
+  ]
 }
     ,{
   "description": "Ocean",
   "id": "ocean",
   "name": "ocean",
-  "type": "realm"
+  "type": [
+    "wcrp:realm",
+    "universal"
+  ]
 }
     ,{
   "description": "Ocean Biogeochemistry",
   "id": "ocnbgchem",
   "name": "ocnBgchem",
-  "type": "realm"
+  "type": [
+    "wcrp:realm",
+    "universal"
+  ]
 }
     ,{
   "description": "Sea Ice",
   "id": "seaice",
   "name": "seaIce",
-  "type": "realm"
+  "type": [
+    "wcrp:realm",
+    "universal"
+  ]
 }
   ]
 }

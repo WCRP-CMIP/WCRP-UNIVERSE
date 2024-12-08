@@ -17,25 +17,37 @@
   "description": "Data that has been processed or transformed from raw model output. Derived data includes value-added products such as anomalies, indices, or other statistics that are computed from the original model outputs.",
   "id": "derived",
   "kind": "derived",
-  "type": "product"
+  "type": [
+    "wcrp:product",
+    "universal"
+  ]
 }
     ,{
   "description": "Data sets used to drive model simulations. These include external factors like greenhouse gas concentrations, solar radiation, and land use changes that influence the climate model outputs.",
   "id": "forcing_dataset",
   "kind": "forcing-dataset",
-  "type": "product"
+  "type": [
+    "wcrp:product",
+    "universal"
+  ]
 }
     ,{
   "description": "Output produced from a model simulation. This includes the various data points and metrics generated as a result of running climate models, which simulate physical, chemical, and biological processes affecting the climate system.",
   "id": "model_output",
   "kind": "model-output",
-  "type": "product"
+  "type": [
+    "wcrp:product",
+    "universal"
+  ]
 }
     ,{
   "description": "Data collected from direct measurements of the climate system. This includes data from ground stations, satellites, buoys, and other observational platforms, which serve as a reference for validating and comparing model outputs.",
   "id": "observations",
   "kind": "observations",
-  "type": "product"
+  "type": [
+    "wcrp:product",
+    "universal"
+  ]
 }
   ]
 }

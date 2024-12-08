@@ -17,85 +17,127 @@
   "description": "aerosol treatment in an atmospheric model where concentrations are calculated based on emissions, transformation, and removal processes (rather than being prescribed or omitted entirely)",
   "id": "aer",
   "name": "AER",
-  "type": "source_type"
+  "type": [
+    "wcrp:source_type",
+    "universal"
+  ]
 }
     ,{
   "description": "atmospheric general circulation model run with prescribed ocean surface conditions and usually a model of the land surface",
   "id": "agcm",
   "name": "AGCM",
-  "type": "source_type"
+  "type": [
+    "wcrp:source_type",
+    "universal"
+  ]
 }
     ,{
   "description": "coupled atmosphere-ocean global climate model, additionally including explicit representation of at least the land and sea ice",
   "id": "aogcm",
   "name": "AOGCM",
-  "type": "source_type"
+  "type": [
+    "wcrp:source_type",
+    "universal"
+  ]
 }
     ,{
   "description": "biogeochemistry model component that at the very least accounts for carbon reservoirs and fluxes in the atmosphere, terrestrial biosphere, and ocean",
   "id": "bgc",
   "name": "BGC",
-  "type": "source_type"
+  "type": [
+    "wcrp:source_type",
+    "universal"
+  ]
 }
     ,{
   "description": "chemistry treatment in an atmospheric model that calculates atmospheric oxidant concentrations (including at least ozone), rather than prescribing them",
   "id": "chem",
   "name": "CHEM",
-  "type": "source_type"
+  "type": [
+    "wcrp:source_type",
+    "universal"
+  ]
 }
     ,{
   "description": "gridded product based on measurements collected from in-situ instruments",
   "id": "gridded_insitu",
   "name": "gridded_insitu",
-  "type": "source_type"
+  "type": [
+    "wcrp:source_type",
+    "universal"
+  ]
 }
     ,{
   "description": "ice-sheet model that includes ice-flow",
   "id": "ism",
   "name": "ISM",
-  "type": "source_type"
+  "type": [
+    "wcrp:source_type",
+    "universal"
+  ]
 }
     ,{
   "description": "land model run uncoupled from the atmosphere",
   "id": "land",
   "name": "LAND",
-  "type": "source_type"
+  "type": [
+    "wcrp:source_type",
+    "universal"
+  ]
 }
     ,{
   "description": "ocean general circulation model run uncoupled from an AGCM but, usually including a sea-ice model",
   "id": "ogcm",
   "name": "OGCM",
-  "type": "source_type"
+  "type": [
+    "wcrp:source_type",
+    "universal"
+  ]
 }
     ,{
   "description": "radiation component of an atmospheric model run 'offline'",
   "id": "rad",
   "name": "RAD",
-  "type": "source_type"
+  "type": [
+    "wcrp:source_type",
+    "universal"
+  ]
 }
     ,{
   "description": "gridded product generated from a model reanalysis based on in-situ instruments and possibly satellite measurements",
   "id": "reanalysis",
   "name": "reanalysis",
-  "type": "source_type"
+  "type": [
+    "wcrp:source_type",
+    "universal"
+  ]
 }
     ,{
   "description": "gridded product based on both in-situ instruments and satellite measurements",
   "id": "satellite_blended",
   "name": "satellite_blended",
-  "type": "source_type"
+  "type": [
+    "wcrp:source_type",
+    "universal"
+  ]
 }
     ,{
   "description": "gridded product based on satellite measurements",
   "id": "satellite_retrieval",
   "name": "satellite_retrieval",
-  "type": "source_type"
+  "type": [
+    "wcrp:source_type",
+    "universal"
+  ]
 }
     ,{
   "description": "slab-ocean used with an AGCM in representing the atmosphere-ocean coupled system",
   "id": "slab",
   "name": "SLAB",
-  "type": "source_type"
+  "type": [
+    "wcrp:source_type",
+    "universal"
+  ]
 }
   ]
 }

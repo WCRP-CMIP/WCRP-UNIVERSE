@@ -1,7 +1,1 @@
-{
-  "@context": "_context_",
-  "description": "Land Ice",
-  "id": "landice",
-  "name": "landIce",
-  "type": "realm"
-}
+{"@context": "_context_", "description": "Land Ice", "id": "landice", "name": "landIce", "type": ["wcrp:realm", "universal"]}
