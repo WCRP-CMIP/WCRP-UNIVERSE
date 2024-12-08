@@ -2,8 +2,8 @@
     "$schema": "http://json-schema.org/draft-07/schema#",
     "title": "CMIP MIP-Era Descriptor",
     "description": "Defines a CMIP MIP-era, including start and end years, unique identifiers, and related URLs.",
-    "references": ["https://github.com/WCRP-CMIP/WCRP-UNIVERSE/mip"],
-    "repo": "https://github.com/WCRP-CMIP/WCRP-UNIVERSE/",
+    "references": ["https://github.com/WCRP-CMIP/WCRP-universe/mip"],
+    "repo": "https://github.com/WCRP-CMIP/WCRP-universe/",
     "prefix": "mip",
 
     "type": "object",
@@ -11,7 +11,7 @@
         "@context": {
             "type": "string",
             "description": "URI for the JSON-LD context describing MIP-eras",
-            "examples": ["https://github.com/WCRP-CMIP/WCRP-UNIVERSE/mip/_context"]
+            "examples": ["https://github.com/WCRP-CMIP/WCRP-universe/mip/_context"]
         },
         "end": {
             "type": "integer",

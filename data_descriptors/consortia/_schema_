@@ -115,5 +115,5 @@
             "solaris_heppa"
         ]
     },
-    "base": "https://github.com/wcrp-cmip/WCRP-UNIVERSE/tree/main/data_descriptors/consortia/"
+    "base": "https://github.com/wcrp-cmip/WCRP-universe/tree/main/data_descriptors/consortia/"
 }

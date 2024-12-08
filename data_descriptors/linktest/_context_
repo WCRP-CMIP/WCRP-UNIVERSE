@@ -2,8 +2,8 @@
     "@context": [
         "../_context_",
         {
-            "@base": "https://wcrp-cmip.github.io/WCRP-UNIVERSE/linktest/",
-            "@vocab": "https://wcrp-cmip.github.io/WCRP-UNIVERSE/linktest/"
+            "@base": "https://wcrp-cmip.github.io/WCRP-universe/linktest/",
+            "@vocab": "https://wcrp-cmip.github.io/WCRP-universe/linktest/"
         }
     ],
     "@embed": "@always"

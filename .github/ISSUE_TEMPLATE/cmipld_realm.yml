@@ -9,7 +9,7 @@ body:
     attributes:
         value: " To add a new realm please fill in the form below. \n\n Existing entries\
             \ are: \n\n\t  | aerosol | atmos | atmoschem | land | landice | ocean\
-            \ | ocnbgchem | seaice |  \n ___ \n Alternatively [see here](https://github.com/wcrp-cmip/WCRP-UNIVERSE/tree/main/data_descriptors/realm/)\
+            \ | ocnbgchem | seaice |  \n ___ \n Alternatively [see here](https://github.com/wcrp-cmip/WCRP-universe/tree/main/data_descriptors/realm/)\
             \ for more examples. \n  ___"
 -   id: description
     attributes:
