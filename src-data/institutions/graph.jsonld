@@ -7,9 +7,10 @@
   "cf": "https://wcrp-cmip.github.io/CF/",
   "cmip6plus": "https://wcrp-cmip.github.io/CMIP6Plus_CVs/",
   "cmip7": "https://wcrp-cmip.github.io/CMIP7_CVs/",
-  "mip-variables": "https://wcrp-cmip.github.io/MIP-variables/",
-  "obs4mips": "https://wolfiex.github.io/obs4MIPs-cmor-tables-ld//",
-  "wcrp-universe": "https://wcrp-cmip.github.io/WCRP-universe/",
+  "obs4mips": "https://wolfiex.github.io/obs4MIPs-cmor-tables-ld/",
+  "universal": "https://wcrp-cmip.github.io/WCRP-universe/",
+  "variables": "https://wcrp-cmip.github.io/MIP-variables/",
+  "wcrp": "https://wcrp-cmip.github.io/",
   "organisation": "https://wcrp-cmip.github.io/WCRP-universe/organisation/"
 },
   "@graph": [
@@ -23,7 +24,7 @@
   "established": 1977,
   "labels": [],
   "location": {
-    "id": "wcrp-universe:location/04cg70g73",
+    "id": "universal:location/04cg70g73",
     "@nest": {
       "city": "Lexington",
       "country": [
@@ -54,7 +55,7 @@
   "established": 1938,
   "labels": [],
   "location": {
-    "id": "wcrp-universe:location/02hnp4676",
+    "id": "universal:location/02hnp4676",
     "@nest": {
       "city": "Rome",
       "country": [
@@ -87,7 +88,7 @@
   "established": 0,
   "labels": [],
   "location": {
-    "id": "wcrp-universe:location/050qpg053",
+    "id": "universal:location/050qpg053",
     "@nest": {
       "city": "Taipei",
       "country": [
@@ -120,7 +121,7 @@
   "established": 1925,
   "labels": [],
   "location": {
-    "id": "wcrp-universe:location/02j61yw88",
+    "id": "universal:location/02j61yw88",
     "@nest": {
       "city": "Thessaloniki",
       "country": [
@@ -153,7 +154,7 @@
   "established": 1980,
   "labels": [],
   "location": {
-    "id": "wcrp-universe:location/032e6b942",
+    "id": "universal:location/032e6b942",
     "@nest": {
       "city": "Bremerhaven",
       "country": [
@@ -186,7 +187,7 @@
   "established": 1962,
   "labels": [],
   "location": {
-    "id": "wcrp-universe:location/01rhff309",
+    "id": "universal:location/01rhff309",
     "@nest": {
       "city": "Cambridge",
       "country": [
@@ -217,7 +218,7 @@
   "established": 2008,
   "labels": [],
   "location": {
-    "id": "wcrp-universe:location/01spyyb53",
+    "id": "universal:location/01spyyb53",
     "@nest": {
       "city": "Beijing",
       "country": [
@@ -250,7 +251,7 @@
   "established": 1978,
   "labels": [],
   "location": {
-    "id": "wcrp-universe:location/034b53w38",
+    "id": "universal:location/034b53w38",
     "@nest": {
       "city": "Beijing",
       "country": [
@@ -283,7 +284,7 @@
   "established": 1949,
   "labels": [],
   "location": {
-    "id": "wcrp-universe:location/034t30j35",
+    "id": "universal:location/034t30j35",
     "@nest": {
       "city": "Beijing",
       "country": [
@@ -316,7 +317,7 @@
   "established": 1971,
   "labels": [],
   "location": {
-    "id": "wcrp-universe:location/026ny0e17",
+    "id": "universal:location/026ny0e17",
     "@nest": {
       "city": "Gatineau",
       "country": [
@@ -349,7 +350,7 @@
   "established": 1962,
   "labels": [],
   "location": {
-    "id": "wcrp-universe:location/03jf2m686",
+    "id": "universal:location/03jf2m686",
     "@nest": {
       "city": "Pune",
       "country": [
@@ -382,7 +383,7 @@
   "established": 2005,
   "labels": [],
   "location": {
-    "id": "wcrp-universe:location/04j4kad11",
+    "id": "universal:location/04j4kad11",
     "@nest": {
       "city": "Harwell",
       "country": [
@@ -415,7 +416,7 @@
   "established": 2005,
   "labels": [],
   "location": {
-    "id": "wcrp-universe:location/01tf11a61",
+    "id": "universal:location/01tf11a61",
     "@nest": {
       "city": "Lecce",
       "country": [
@@ -448,7 +449,7 @@
   "established": 1961,
   "labels": [],
   "location": {
-    "id": "wcrp-universe:location/04h1h0y33",
+    "id": "universal:location/04h1h0y33",
     "@nest": {
       "city": "Paris",
       "country": [
@@ -481,7 +482,7 @@
   "established": 1926,
   "labels": [],
   "location": {
-    "id": "wcrp-universe:location/03qn8fb07",
+    "id": "universal:location/03qn8fb07",
     "@nest": {
       "city": "Canberra",
       "country": [
@@ -514,7 +515,7 @@
   "established": 1987,
   "labels": [],
   "location": {
-    "id": "wcrp-universe:location/03ztgj037",
+    "id": "universal:location/03ztgj037",
     "@nest": {
       "city": "Hamburg",
       "country": [
@@ -547,7 +548,7 @@
   "established": 1952,
   "labels": [],
   "location": {
-    "id": "wcrp-universe:location/02nrqs528",
+    "id": "universal:location/02nrqs528",
     "@nest": {
       "city": "Offenbach",
       "country": [
@@ -580,7 +581,7 @@
   "established": 1936,
   "labels": [],
   "location": {
-    "id": "wcrp-universe:location/00pc48d59",
+    "id": "universal:location/00pc48d59",
     "@nest": {
       "city": "Dübendorf",
       "country": [
@@ -613,7 +614,7 @@
   "established": 1975,
   "labels": [],
   "location": {
-    "id": "wcrp-universe:location/014w0fd65",
+    "id": "universal:location/014w0fd65",
     "@nest": {
       "city": "Reading",
       "country": [
@@ -646,7 +647,7 @@
   "established": 1999,
   "labels": [],
   "location": {
-    "id": "wcrp-universe:location/04xbqmj23",
+    "id": "universal:location/04xbqmj23",
     "@nest": {
       "city": "Hyderabad",
       "country": [
@@ -679,7 +680,7 @@
   "established": 1838,
   "labels": [],
   "location": {
-    "id": "wcrp-universe:location/05hppb561",
+    "id": "universal:location/05hppb561",
     "@nest": {
       "city": "Helsinki",
       "country": [
@@ -715,7 +716,7 @@
   "established": 1948,
   "labels": [],
   "location": {
-    "id": "wcrp-universe:location/046ak2485",
+    "id": "universal:location/046ak2485",
     "@nest": {
       "city": "Berlin",
       "country": [
@@ -751,7 +752,7 @@
   "established": 1855,
   "labels": [],
   "location": {
-    "id": "wcrp-universe:location/05a28rw58",
+    "id": "universal:location/05a28rw58",
     "@nest": {
       "city": "Zurich",
       "country": [
@@ -786,7 +787,7 @@
   "established": 2004,
   "labels": [],
   "location": {
-    "id": "wcrp-universe:location/02h2x0161",
+    "id": "universal:location/02h2x0161",
     "@nest": {
       "city": "Kiel",
       "country": [
@@ -817,7 +818,7 @@
   "established": 1907,
   "labels": [],
   "location": {
-    "id": "wcrp-universe:location/041kmwe10",
+    "id": "universal:location/041kmwe10",
     "@nest": {
       "city": "London",
       "country": [
@@ -850,7 +851,7 @@
   "established": 1980,
   "labels": [],
   "location": {
-    "id": "wcrp-universe:location/00520ey40",
+    "id": "universal:location/00520ey40",
     "@nest": {
       "city": "Moscow",
       "country": [
@@ -883,7 +884,7 @@
   "established": 1991,
   "labels": [],
   "location": {
-    "id": "wcrp-universe:location/02haar591",
+    "id": "universal:location/02haar591",
     "@nest": {
       "city": "Paris",
       "country": [
@@ -916,7 +917,7 @@
   "established": 1995,
   "labels": [],
   "location": {
-    "id": "wcrp-universe:location/01xm30661",
+    "id": "universal:location/01xm30661",
     "@nest": {
       "city": "Bern",
       "country": [
@@ -952,7 +953,7 @@
   "established": 2003,
   "labels": [],
   "location": {
-    "id": "wcrp-universe:location/059yhyy33",
+    "id": "universal:location/059yhyy33",
     "@nest": {
       "city": "Tokyo",
       "country": [
@@ -987,7 +988,7 @@
   "established": 1973,
   "labels": [],
   "location": {
-    "id": "wcrp-universe:location/032m55064",
+    "id": "universal:location/032m55064",
     "@nest": {
       "city": "Busan",
       "country": [
@@ -1023,7 +1024,7 @@
   "established": 2009,
   "labels": [],
   "location": {
-    "id": "wcrp-universe:location/04t3en479",
+    "id": "universal:location/04t3en479",
     "@nest": {
       "city": "Karlsruhe",
       "country": [
@@ -1062,7 +1063,7 @@
   "established": 1952,
   "labels": [],
   "location": {
-    "id": "wcrp-universe:location/041nk4h53",
+    "id": "universal:location/041nk4h53",
     "@nest": {
       "city": "Livermore",
       "country": [
@@ -1095,7 +1096,7 @@
   "established": 2012,
   "labels": [],
   "location": {
-    "id": "wcrp-universe:location/049k66y27",
+    "id": "universal:location/049k66y27",
     "@nest": {
       "city": "Orléans",
       "country": [
@@ -1128,7 +1129,7 @@
   "established": 1854,
   "labels": [],
   "location": {
-    "id": "wcrp-universe:location/01ch2yn61",
+    "id": "universal:location/01ch2yn61",
     "@nest": {
       "city": "Exeter",
       "country": [
@@ -1159,7 +1160,7 @@
   "established": 1997,
   "labels": [],
   "location": {
-    "id": "wcrp-universe:location/051yxp643",
+    "id": "universal:location/051yxp643",
     "@nest": {
       "city": "Jena",
       "country": [
@@ -1192,7 +1193,7 @@
   "established": 1975,
   "labels": [],
   "location": {
-    "id": "wcrp-universe:location/05esem239",
+    "id": "universal:location/05esem239",
     "@nest": {
       "city": "Hamburg",
       "country": [
@@ -1225,7 +1226,7 @@
   "established": 1934,
   "labels": [],
   "location": {
-    "id": "wcrp-universe:location/02j6gm739",
+    "id": "universal:location/02j6gm739",
     "@nest": {
       "city": "Göttingen",
       "country": [
@@ -1260,7 +1261,7 @@
   "established": 1956,
   "labels": [],
   "location": {
-    "id": "wcrp-universe:location/02772kk97",
+    "id": "universal:location/02772kk97",
     "@nest": {
       "city": "Tokyo",
       "country": [
@@ -1293,7 +1294,7 @@
   "established": 1961,
   "labels": [],
   "location": {
-    "id": "wcrp-universe:location/01cyfxe35",
+    "id": "universal:location/01cyfxe35",
     "@nest": {
       "city": "New York",
       "country": [
@@ -1326,7 +1327,7 @@
   "established": 1959,
   "labels": [],
   "location": {
-    "id": "wcrp-universe:location/0171mag52",
+    "id": "universal:location/0171mag52",
     "@nest": {
       "city": "Greenbelt",
       "country": [
@@ -1362,7 +1363,7 @@
   "established": 1936,
   "labels": [],
   "location": {
-    "id": "wcrp-universe:location/027k65916",
+    "id": "universal:location/027k65916",
     "@nest": {
       "city": "La Cañada Flintridge",
       "country": [
@@ -1395,7 +1396,7 @@
   "established": 1917,
   "labels": [],
   "location": {
-    "id": "wcrp-universe:location/0399mhs52",
+    "id": "universal:location/0399mhs52",
     "@nest": {
       "city": "Hampton",
       "country": [
@@ -1428,7 +1429,7 @@
   "established": 1930,
   "labels": [],
   "location": {
-    "id": "wcrp-universe:location/05cvfcr44",
+    "id": "universal:location/05cvfcr44",
     "@nest": {
       "city": "Boulder",
       "country": [
@@ -1459,7 +1460,7 @@
   "established": 1997,
   "labels": [],
   "location": {
-    "id": "wcrp-universe:location/03q36cn05",
+    "id": "universal:location/03q36cn05",
     "@nest": {
       "city": "Islamabad",
       "country": [
@@ -1492,7 +1493,7 @@
   "established": 1965,
   "labels": [],
   "location": {
-    "id": "wcrp-universe:location/02b5d8509",
+    "id": "universal:location/02b5d8509",
     "@nest": {
       "city": "Swindon",
       "country": [
@@ -1527,7 +1528,7 @@
   "established": 1992,
   "labels": [],
   "location": {
-    "id": "wcrp-universe:location/04hxcaz34",
+    "id": "universal:location/04hxcaz34",
     "@nest": {
       "city": "Auckland",
       "country": [
@@ -1567,7 +1568,7 @@
   "established": 1934,
   "labels": [],
   "location": {
-    "id": "wcrp-universe:location/04r0wrp59",
+    "id": "universal:location/04r0wrp59",
     "@nest": {
       "city": "Asheville",
       "country": [
@@ -1600,7 +1601,7 @@
   "established": 1928,
   "labels": [],
   "location": {
-    "id": "wcrp-universe:location/05bqach95",
+    "id": "universal:location/05bqach95",
     "@nest": {
       "city": "Taipei",
       "country": [
@@ -1636,7 +1637,7 @@
   "established": 1902,
   "labels": [],
   "location": {
-    "id": "wcrp-universe:location/01rxvg760",
+    "id": "universal:location/01rxvg760",
     "@nest": {
       "city": "Nanjing",
       "country": [
@@ -1669,7 +1670,7 @@
   "established": 1868,
   "labels": [],
   "location": {
-    "id": "wcrp-universe:location/00ysfqy60",
+    "id": "universal:location/00ysfqy60",
     "@nest": {
       "city": "Corvallis",
       "country": [
@@ -1708,7 +1709,7 @@
   "established": 1952,
   "labels": [],
   "location": {
-    "id": "wcrp-universe:location/041nk4h53",
+    "id": "universal:location/041nk4h53",
     "@nest": {
       "city": "Livermore",
       "country": [
@@ -1741,7 +1742,7 @@
   "established": 1907,
   "labels": [],
   "location": {
-    "id": "wcrp-universe:location/02gtrqv93",
+    "id": "universal:location/02gtrqv93",
     "@nest": {
       "city": "Davos",
       "country": [
@@ -1774,7 +1775,7 @@
   "established": 2001,
   "labels": [],
   "location": {
-    "id": "wcrp-universe:location/058cmd703",
+    "id": "universal:location/058cmd703",
     "@nest": {
       "city": "Riverdale Park",
       "country": [
@@ -1807,7 +1808,7 @@
   "established": 1965,
   "labels": [],
   "location": {
-    "id": "wcrp-universe:location/05h992307",
+    "id": "universal:location/05h992307",
     "@nest": {
       "city": "Richland",
       "country": [
@@ -1840,7 +1841,7 @@
   "established": 1974,
   "labels": [],
   "location": {
-    "id": "wcrp-universe:location/01vp8h012",
+    "id": "universal:location/01vp8h012",
     "@nest": {
       "city": "Santa Rosa",
       "country": [
@@ -1875,7 +1876,7 @@
   "established": 1946,
   "labels": [],
   "location": {
-    "id": "wcrp-universe:location/04h9pn542",
+    "id": "universal:location/04h9pn542",
     "@nest": {
       "city": "Seoul",
       "country": [
@@ -1908,7 +1909,7 @@
   "established": 1911,
   "labels": [],
   "location": {
-    "id": "wcrp-universe:location/03cve4549",
+    "id": "universal:location/03cve4549",
     "@nest": {
       "city": "Beijing",
       "country": [
@@ -1941,7 +1942,7 @@
   "established": 1885,
   "labels": [],
   "location": {
-    "id": "wcrp-universe:location/03m2x1q45",
+    "id": "universal:location/03m2x1q45",
     "@nest": {
       "city": "Tucson",
       "country": [
@@ -1976,7 +1977,7 @@
   "established": 1965,
   "labels": [],
   "location": {
-    "id": "wcrp-universe:location/04gyf1771",
+    "id": "universal:location/04gyf1771",
     "@nest": {
       "city": "Irvine",
       "country": [
@@ -2009,7 +2010,7 @@
   "established": 1876,
   "labels": [],
   "location": {
-    "id": "wcrp-universe:location/00jc20583",
+    "id": "universal:location/00jc20583",
     "@nest": {
       "city": "Boulder",
       "country": [
@@ -2044,7 +2045,7 @@
   "established": 1891,
   "labels": [],
   "location": {
-    "id": "wcrp-universe:location/02t274463",
+    "id": "universal:location/02t274463",
     "@nest": {
       "city": "Santa Barbara",
       "country": [
@@ -2079,7 +2080,7 @@
   "established": 1919,
   "labels": [],
   "location": {
-    "id": "wcrp-universe:location/00g30e956",
+    "id": "universal:location/00g30e956",
     "@nest": {
       "city": "Hamburg",
       "country": [
@@ -2112,7 +2113,7 @@
   "established": 1946,
   "labels": [],
   "location": {
-    "id": "wcrp-universe:location/03zga2b32",
+    "id": "universal:location/03zga2b32",
     "@nest": {
       "city": "Bergen",
       "country": [
@@ -2145,7 +2146,7 @@
   "established": 1856,
   "labels": [],
   "location": {
-    "id": "wcrp-universe:location/047s2c258",
+    "id": "universal:location/047s2c258",
     "@nest": {
       "city": "College Park",
       "country": [
@@ -2176,7 +2177,7 @@
   "established": 1904,
   "labels": [],
   "location": {
-    "id": "wcrp-universe:location/024mrxd33",
+    "id": "universal:location/024mrxd33",
     "@nest": {
       "city": "Leeds",
       "country": [
@@ -2209,7 +2210,7 @@
   "established": 1853,
   "labels": [],
   "location": {
-    "id": "wcrp-universe:location/01ej9dk98",
+    "id": "universal:location/01ej9dk98",
     "@nest": {
       "city": "Melbourne",
       "country": [
@@ -2242,7 +2243,7 @@
   "established": 1878,
   "labels": [],
   "location": {
-    "id": "wcrp-universe:location/0161xgx34",
+    "id": "universal:location/0161xgx34",
     "@nest": {
       "city": "Montreal",
       "country": [
@@ -2273,7 +2274,7 @@
   "established": 1869,
   "labels": [],
   "location": {
-    "id": "wcrp-universe:location/01jmxt844",
+    "id": "universal:location/01jmxt844",
     "@nest": {
       "city": "Dunedin",
       "country": [
@@ -2304,7 +2305,7 @@
   "established": 1958,
   "labels": [],
   "location": {
-    "id": "wcrp-universe:location/03yj89h83",
+    "id": "universal:location/03yj89h83",
     "@nest": {
       "city": "Oulu",
       "country": [
@@ -2335,7 +2336,7 @@
   "established": 1926,
   "labels": [],
   "location": {
-    "id": "wcrp-universe:location/05v62cm79",
+    "id": "universal:location/05v62cm79",
     "@nest": {
       "city": "Reading",
       "country": [
@@ -2368,7 +2369,7 @@
   "established": 1861,
   "labels": [],
   "location": {
-    "id": "wcrp-universe:location/00cvxb145",
+    "id": "universal:location/00cvxb145",
     "@nest": {
       "city": "Seattle",
       "country": [
@@ -2403,7 +2404,7 @@
   "established": 1880,
   "labels": [],
   "location": {
-    "id": "wcrp-universe:location/008xxew50",
+    "id": "universal:location/008xxew50",
     "@nest": {
       "city": "Amsterdam",
       "country": [

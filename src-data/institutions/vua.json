@@ -11,7 +11,7 @@
     "established": 1880,
     "labels": [],
     "location": {
-        "id": "wcrp-universe:location/008xxew50",
+        "id": "universal:location/008xxew50",
         "@nest": {
             "city": "Amsterdam",
             "country": [
